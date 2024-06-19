@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ulisses Rodrigues</h1>
-<h3 align="center">Estudannte de analise e desenvolvimento de sistemas</h3>
+<h3 align="center">Estudante de analise e desenvolvimento de sistemas</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ulissesfr" alt="ulissesfr" /></a> </p>
 
